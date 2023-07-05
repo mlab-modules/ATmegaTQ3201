@@ -13,5 +13,7 @@ images:
 - hw/cam_doc/ATmegaTQ3201A.png
 - fzp/ATmegaTQ3201A_breadboard.svg
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: ATmegaTQ3201
