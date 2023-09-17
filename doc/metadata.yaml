@@ -3,6 +3,7 @@ github_branch: ATmegaTQ3201A
 github_repo: ATmegaTQ3201
 github_url: https://github.com/mlab-modules/ATmegaTQ3201
 homepage: false
+image_title: doc/img/ATmegaTQ3201A_top_small.jpg
 images:
 - doc/img/ATmegaTQ3201A_bottom_big.jpg
 - doc/img/ATmegaTQ3201A_top_small.jpg
