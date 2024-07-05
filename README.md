@@ -4,6 +4,10 @@
 
 The ATmegaTQ3201 is a processor module designed for working with ATMEL processors in TQFP32 packages. This module includes a processor and is equipped with a RESET button and an ATMEL ISP 6 PIN programming connector. The module supports the use of a standard crystal or external clock.
 
+![ATmegaTQ3201A ](doc/img/ATmegaTQ3201A_top_small.jpg)
+![ATmegaTQ3201A](doc/img/ATmegaTQ3201A_bottom_small.jpg)
+
+
 ## Technical Specifications
 
 - **Power Supply:** 1.8V to 5.5V (depending on the processor used)
