@@ -88,4 +88,4 @@ avrdude -p m8 -c picoweb -P lpt1 -U flash:w:BLIK_ATmega8.hex:a -E noreset
 
 ## Additional Information
 
-For more details and updates, visit the MLAB website and the MLAB wiki.
+For more details and updates, visit the MLAB website and the [MLAB wiki](https://wiki.mlab.cz/doku.php?id=cs:atmegatq32).
