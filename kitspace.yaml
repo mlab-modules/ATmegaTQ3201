@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/ATmegaTQ3201
-summary: null
+summary: ATmegaTQ3201 module for ATMEL TQFP32 processors, includes RESET button and
+  ATMEL ISP 6-pin connector, supports standard crystal or external clock.

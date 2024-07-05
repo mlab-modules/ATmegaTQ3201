@@ -1,4 +1,5 @@
-description: null
+description: ATmegaTQ3201 module for ATMEL TQFP32 processors, includes RESET button
+  and ATMEL ISP 6-pin connector, supports standard crystal or external clock.
 github_branch: ATmegaTQ3201A
 github_repo: ATmegaTQ3201
 github_url: https://github.com/mlab-modules/ATmegaTQ3201
